@@ -1,16 +1,68 @@
-# React + Vite
+<h1 align="center">Welcome to my GitHub! ✨</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <b>Hi, I'm Renganathan — a Web Developer (HTML, CSS, PHP, MySQL)</b> <br/>
+  I specialize in building responsive, dynamic, and database-driven web applications.
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Coding Animation" width="500" />
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 My Tech Stack
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Featured Projects
+
+- 🌐 **My Portfolio**  
+  `HTML • CSS`  
+  👉 https://devorochimaru.github.io/renga07015/
+
+- 💻 **GitHub Projects**  
+  👉 https://github.com/devorochimaru
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renganathan-n-a54821393/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:renganathan07015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://devorochimaru.github.io/renga07015/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renganathan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renganathan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renganathan&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
